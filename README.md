@@ -5,4 +5,5 @@ This repository documents my journey into mastering Excel, particularly focusing
 2. Pivot Tables: Utilize Pivot Tables to summarize, analyze, explore, and present data.
 3. Slicers: Implement Slicers to filter data in Pivot Tables and Charts with ease.
 4. Charts: Create various types of charts to visualize data effectively.
+
 Feel free to explore the files and follow along as I delve into the capabilities of Excel to enhance data analysis and visualization skills.
