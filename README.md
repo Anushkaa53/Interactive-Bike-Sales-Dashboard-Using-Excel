@@ -1,4 +1,4 @@
-# Interactive-Bike-Sales-DashboardUsing-Excel
+# Interactive-Bike-Sales-Dashboard-Using-Excel
 This repository documents my journey into mastering Excel, particularly focusing on creating interactive dashboards. The main highlights include:
 
 1. Interactive Dashboard: Learn how to build a dynamic and interactive dashboard in Excel.
